@@ -2,14 +2,13 @@
 Welcome to my GitHub profile! I’m a passionate computer science student and aspiring software developer with interests in ethical hacking, data analysis, and embedded systems.
 🚀 About Me
 
-  🏫 Currently Studying: 
-        Second-year Computer Science student at TUD.
-        Ethical hacking course at UCD.
+  🏫 Currently Studying:
+  - Second-year Computer Science student at TUD.
+  - Ethical hacking course at UCD.
 
 🛠️ Tech & Tools
-
-  Programming: C, C++, Java, Python, JavaScript, HTML/CSS, Next.js
-  Areas of Expertise: Bit Manipulation, Embedded Systems, Web Development, 
+  - Programming: C, C++, Java, Python, JavaScript, HTML/CSS, Next.js
+  - Areas of Expertise: Bit Manipulation, Embedded Systems, Web Development, 
 
 🌟 Projects
 
