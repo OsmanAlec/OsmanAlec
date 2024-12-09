@@ -1,5 +1,7 @@
 👋 Hi, I’m @OsmanAlec
 Welcome to my GitHub profile! I’m a passionate computer science student and aspiring software developer with interests in ethical hacking, data analysis, and embedded systems.
+
+
 🚀 About Me
 
   🏫 Currently Studying:
