@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate computer science student and as
   - Ethical hacking course at UCD.
 
 🛠️ Tech & Tools
-  - Programming: C, C++, Java, Python, JavaScript, HTML/CSS, Next.js, React
+  - Programming: C, C++, Java, Python, JavaScript, HTML/CSS, Next.js, React, Rust.
   - Areas of Expertise: Bit Manipulation, Embedded Systems, Web Development, Game development, penntesting.
 
 🌟 Projects
