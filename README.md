@@ -1,6 +1,6 @@
 Hi, I’m Osman
 
-I'm a passionate software developer who enjoys everything from game development, trading, and ethical hacking to a good game of chess. And while I'm quite good at breaking others' software, I've found my most vocal debugging sessions happen when my own code decides to rebel.
+I'm a passionate software developer who enjoys everything from game development, trading, and ethical hacking to a good game of chess. And while I'm quite good at breaking others' software, I've found my most vocal debugging sessions happen when my own code decides to break.
 
 ## Featured Projects
 
