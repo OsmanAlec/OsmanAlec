@@ -1,35 +1,25 @@
-👋 Hi, I’m @OsmanAlec
-Welcome to my GitHub profile! I’m a passionate computer science student and aspiring software developer with interests in ethical hacking, data analysis, and embedded systems.
+Hi, I’m Osman
 
+I'm a passionate software developer who enjoys everything from game development, trading, and ethical hacking to a good game of chess. And while I'm quite good at breaking others' software, I've found my most vocal debugging sessions happen when my own code decides to rebel.
 
-🚀 About Me
+## Featured Projects
 
-  🏫 Currently Studying:
-  - Second-year Computer Science student at TUD.
-  - Ethical hacking course at UCD.
+**Anterric**
+A rogue-like dungeon crawler, story-driven video game that earned **first place at Games Fleadh**. Built as part of a team over the course of 2 months.
 
-🛠️ Tech & Tools
-  - Programming: C, C++, Java, Python, JavaScript, HTML/CSS, Next.js, React, Rust.
-  - Areas of Expertise: Bit Manipulation, Embedded Systems, Web Development, Game development, penntesting.
+**Local Business Websites**
+I've built a couple of websites using **Next.js**, actively listening to client and customer feedback for iteration and maintenance.
 
-🌟 Projects
+---
 
-Here are some of the projects I’m proud of:
+## Exciting Projects in the Works
 
-  Connect 4 Game on Nucleo Microcontroller: Developed a two-player Connect 4 game using a Nucleo microcontroller, LEDs, buttons, and an LCD display. Focused on bit manipulation, hardware interfacing, and optimizing game logic.
-       
-  - Tech Stack: C, Nucleo Microcontroller
-  - Key Features: Bit-shifting operations for I/O control, dynamic grid drawing, game-winning checks, and hardware integration.
+**Quantaview**
+A trading web application I'm developing to help traders efficiently track their portfolios.
 
-  Book Reservation System using PHP & MySQL: Built a dynamic book reservation system using pure PHP and MySQL. Users can browse available books, reserve them, and manage reservations.
-       
-  - Tech Stack: PHP, MySQL, phpMyAdmin
-  - Key Features: User authentication, book availability tracking, reservation management, and seamless database interaction.
+**ReFridge**
+Working as part of a team, I'm developing a mobile app for ReFridge. This app will enable users to pre-order from food pantries, save preferred locations, find nearby pantries, and use in-app payments.
+[Learn more about ReFridge here](https://www.refridge.ie/)
 
-  Pokemon API Integration: Developed a project using the PokeAPI to display information about various Pokémon. The app fetches data and presents it in an interactive UI.
-       
-  - Tech Stack: JavaScript, PokeAPI
-  - Key Features: Fetch and display Pokémon details like name, type, stats, and abilities. Ability to look at past searches.
-  
-  
-  
+**World Recipes**
+Currently in the design stage, more details will be revealed soon!
