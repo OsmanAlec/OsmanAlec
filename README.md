@@ -21,5 +21,5 @@ A trading web application I'm developing to help traders efficiently track their
 Working as part of a team, I'm developing a mobile app for ReFridge. This app will enable users to pre-order from food pantries, save preferred locations, find nearby pantries, and use in-app payments.
 [Learn more about ReFridge here](https://www.refridge.ie/)
 
-**World Recipes**
-Currently in the design stage, more details will be revealed soon!
+**World Cuisine**
+Soon to be released
