@@ -4,28 +4,28 @@ I'm a passionate software developer who enjoys everything from game development,
 
 ## Featured Projects
 
-**Anterric**
+**Anterric**   
 A rogue-like dungeon crawler, story-driven video game that earned **first place at Games Fleadh**. Built as part of a team over the course of 2 months.
 
-**Local Business Websites**
+**Local Business Websites**   
 I've built a couple of websites using **Next.js**, actively listening to client and customer feedback for iteration and maintenance.
 
-**NES Emulator**
+**NES Emulator**   
 A nintendo entertainment system emulator coded in rust. CPU, PPU, joypads, and rendering all implemented- basically, I made the NES run on my computer.
 
-**Dishes Around The World (.com)**
+**Dishes Around The World (.com)**   
 A project where you can explore dishes from anywhere in the world. Contribute new recipes, pick a random dish, or filter by country or name.
 
 ---
 
 ## Exciting Projects in the Works
 
-**Quantaview**
+**Quantaview**   
 A trading web application I'm developing to help traders efficiently track their portfolios.
 
-**Chess Bot**
+**Chess Bot**   
 In the works. Creating the engine itself right now, with plans to eventually add a chess AI.
 
-**ReFridge**
+**ReFridge**   
 Working as part of a team, I'm developing a mobile app for ReFridge. This app will enable users to pre-order from food pantries, save preferred locations, find nearby pantries, and use in-app payments.
 [Learn more about ReFridge here](https://www.refridge.ie/)
