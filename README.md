@@ -5,7 +5,7 @@ I'm a passionate software developer who enjoys everything from game development,
 ## Featured Projects
 
 **Anterric**   
-A rogue-like dungeon crawler, story-driven video game that earned **first place at Games Fleadh**. Built as part of a team over the course of 2 months.
+A rogue-like dungeon crawler, story-driven video game that earned **first place at Games Fleadh**. Built as part of a team over the course of 1 month.
 
 **Local Business Websites**   
 I've built a couple of websites using **Next.js**, actively listening to client and customer feedback for iteration and maintenance.
